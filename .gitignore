@@ -1,0 +1,25 @@
+#Coq
+*.vo
+*.v.d
+*.glob
+
+Makefile.coq
+Makefile.coq.bak
+html/
+
+#Emacs backup files
+.#*
+
+*~
+\#*#
+
+#Latex
+*.bbl
+*.aux
+*.blg
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.nav
+*.snm

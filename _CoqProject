@@ -1,0 +1,7 @@
+-R src/ Pattern
+
+src/StdLib.v
+src/FrameC.v
+src/Sublocale.v
+src/SetsC.v
+src/OrderC.v
